@@ -1,5 +1,6 @@
 I’m developing a mobile app and needed an efficient way to import existing document data into Firestore. I created a script that accomplishes this task, making it particularly useful during the initial stages of app development. While this script is not optimized for handling large datasets, it effectively facilitates data import when building out the app's features.
 
+Modify the script for your needs!
 
 Go to Firebase Console:
 
